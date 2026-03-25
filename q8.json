@@ -1,7 +1,6 @@
 {
   "prompt": "A realistic exam hall where students are taking a test. One student is secretly cheating by looking at hidden notes or another student's paper, while others are writing honestly. The environment is natural, no text, no symbols, realistic lighting, highly detailed, cinematic realism.",
   "model": "DALL·E 3",
-  "concept": "data leakage",
   "paradox": "The model appears to perform well during evaluation because it has access to information it should not have, creating an illusion of high accuracy.",
   "visual_logic": "The cheating student represents the model using hidden or future information, while honest students represent proper evaluation without leakage."
 }
