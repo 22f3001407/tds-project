@@ -1,0 +1,8 @@
+{
+  "prompt": "A realistic exam hall where students are taking a test. One student is secretly cheating by looking at hidden notes or another student's paper, while others are writing honestly. The environment is natural, no text, no symbols, realistic lighting, highly detailed, cinematic realism.",
+  "model": "DALL·E 3",
+  "concept": "data leakage",
+  "tradition_name": "Examination System",
+  "tradition_period": "Modern education system",
+  "tradition_approach": "Students are expected to solve problems independently without access to external information during evaluation."
+}
